@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.0"
+  },
+  "applications": {
+    "Odds Are": {
+      "applicationId": "IXkfPyf1UKOPZIqV84ysnNu2agSgDWlP4xXpE4lB",
+      "masterKey": "gjpnc9kbBni3UjrXP2xG1ODotkDqzAsk0DHQZLx3"
+    },
+    "_default": {
+      "link": "Odds Are"
+    }
+  }
+}
