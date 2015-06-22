@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MyAppTheme" parent="MaterialDrawerTheme.Light">
+
+        <item name="material_drawer_background">#FFF</item>
+
+        <item name="colorPrimary">#F3484D</item>
+        <item name="colorPrimaryDark">#ffc30000</item>
+        <item name="colorAccent">#ff02a8f3</item>
+
+        <item name="material_drawer_icons">#ff02a8f3</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+        <item name="material_drawer_selected_text">#F3484D</item>
+        <item name="material_drawer_header_selection_text">#ffffffff</item>
+        <item name="material_drawer_primary_text">#ff1a0202</item>
+        <item name="material_drawer_secondary_text">#fff</item>
+
+        <item name="windowActionModeOverlay">true</item>
+
+
+        <!--
+
+         <item name="android:actionBarStyle">@style/ActionBar.MyAppTheme</item>
+            <item name="android:textColorPrimary">#fff</item>
+            <item name="android:windowContentOverlay">@drawable/lineshadow</item>-->
+    </style>
+
+ <!--   <style name="ActionBar.MyAppTheme" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    </style>  -->
+
+
+</resources>

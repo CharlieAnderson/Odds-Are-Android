@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Odds Are</string>
+
+    <string name="title_section1">Newsfeed</string>
+    <string name="title_section2">Odds</string>
+    <string name="title_section3">Friends</string>
+    <string name="title_section4">Profile</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

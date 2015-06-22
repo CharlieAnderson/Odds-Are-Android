@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/odds"
+    android:background="#ffffffff"
+>
+
+
+    <SearchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchView2"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_centerHorizontal="true"
+        android:queryHint="Who to challenge?"
+        android:background="@color/md_grey_200"
+        android:layout_marginTop="20dp"
+     />
+
+
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/searchView2"
+        android:hint="Enter your challenge here."
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="start|top"
+        android:padding="5dp"
+        android:background="@color/md_grey_200"
+        android:singleLine="true"
+        android:minHeight="120dp"
+
+       />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_below="@id/editText"
+        android:layout_alignRight="@id/editText"
+        android:layout_margin="5dp"
+        android:background="@null"
+        />
+
+
+</RelativeLayout>
