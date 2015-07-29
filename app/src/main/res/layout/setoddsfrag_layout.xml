@@ -34,14 +34,21 @@
         android:layout_marginTop="5dp" />
 
 
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button"
-        android:layout_margin="20dp"
-        android:background="#ffffffff"
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:id="@+id/button"
+        android:background="@color/main"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true" />
+        android:layout_centerHorizontal="true"
+        android:textSize="24dp"
+        android:textColor="#fff"
+        android:minHeight="50dp"
+        android:text="Set these Odds"
+        android:typeface="normal"
+        android:gravity="center_vertical|center_horizontal" />
+
+
 
 </RelativeLayout>

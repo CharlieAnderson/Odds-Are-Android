@@ -2,60 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e9bba8023f8c1defcf77be40e1f3c4dc6e47895e.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-47802baa13fc35c961d2ec9aa632449cf253b653.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-32b6e6be22232e7a64b3591efd721ecd58832054.jar" />
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-db535764a5c481d63502764950d828f5257d772e.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/ParseCrashReporting-1.9.2.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/picasso-2.3.3-6e73fc6fb8595a12818b23a0cd7c883961b1454f.jar" />
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-7547f7e085480a1a805452c45a61496fb33d7166.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-56116c757c692ae2a26ab995d06072304847d704.jar" />
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-c9c599f732e83a524b5bd8cbafd83cfb256fe029.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-92e4e37d7cee92c59d3fe5108f28ef1194c0b45e.jar" />
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-c625f750f3325777ca3b48dd5f22dc9498eefa1c.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/Parse-1.9.2.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="fe739334780fe321141e62720822c2d456061899">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-b8355f534a2fec94fe73bbbc7d6a723bdb743b5a.jar" />
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-da0d1d94dae83fe474f7ec2a01cb1e67bb8fc7df.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-49d91ddfaba4d4e9af9f8453a79228204950eeac.jar" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-fc71283e741d598309193dafadd44f874418a460.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/3.0.5/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9037a42007919cb39d28fca3566533ecce11293c">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-2850b2561027493061c2bc05e8c4eec6911ba3a9.jar" />
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-6ea892a5d5c8731761dcf04481f5fc8fc54e841f.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-6e7d5dfaec0e99bcf5c40ace0e54081c62558c0c.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-7200a75f4776ef1031f36c97a197c46c07db3d36.jar" />
     </item>
     <item
         jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
@@ -65,18 +79,165 @@
         <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-22d1a8a5ba4eef9ad142f400aa13b86bff296ae9.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/3.0.8/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a89285dff735d86d89ec4e81741dcf155231f4f2">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-c2902ac24c99093dec5684946672bb7e423b3a1b.jar" />
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-8dd7b098a0f82af0830dc05a84b90b309bc0b7d2.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-99ab1988163f551dc705e9d32d5dd421ae7bb95f.jar" />
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8fb56909a81a9c81ed2286874210cd8a9f327d2b.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-be3c359b8a4b0f6bec816f18982a8ab6117cef14.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.github.AlexKolpa/fab-toolbar/ea9d4269b3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b318eb0ff1324f4eba0e0fcc65b7798b7723076">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-fa4eb91bd658d41b914b549debe981e2d48dd1ed.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-d362de822e8efbfa047e0111219a9cd14718b0fb.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/src/main/java/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/volley-612bf343e523b5bad6f6b792ac9de3bd8b0312a8.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-a3b66336adfa2931f9b11d3aca95963d9249e82c.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-3f448ee84ea791b74bb21a8e41ad9075903a6cee.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-60e9c2400f9028bd997653ae5589b51aa608589d.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-b8355f534a2fec94fe73bbbc7d6a723bdb743b5a.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-3611f0c17ce1ff285aa3aa2938af127d16095d38.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-10cda337acc5ead83ab0c1d23a6cbf45895ac8b0.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-9b33c86a5f8ec4977d4df63a9a65e73223acf06b.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/3.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f13bc0bb479956d5c077a450170fa531ead670ef">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-b85ca9048586ae72cd5f6eea37d5e9354f564064.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-49d91ddfaba4d4e9af9f8453a79228204950eeac.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-3205b49c399fc9c1c074b1681c9c47ac46e0caa3.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-92e4e37d7cee92c59d3fe5108f28ef1194c0b45e.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-2f68487b80a2fbac9660b7635c3fb6b3f269a812.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-b858458947870f1015fe7f48b228bfd48de103f5.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.mikepenz/iconics/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="720dcbcd8744b145da58d835d7e4dbc546886df7">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-8254b62037b63664fff2a9535a68ccbdbe408c9d.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e9bba8023f8c1defcf77be40e1f3c4dc6e47895e.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/picasso-2.3.3-6e73fc6fb8595a12818b23a0cd7c883961b1454f.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-73f17d4188919767c2548dc72efd0b29d57abffa.jar" />
     </item>
     <item
         jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
@@ -93,18 +254,32 @@
         <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-3762ed3b60e8acdeb5197d4870887fb625555919.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/volley.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-6e7d5dfaec0e99bcf5c40ace0e54081c62558c0c.jar" />
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/volley-b0662c1001183381384bc7a85a571321362140de.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cde6fa8bb1643d99c0632eae0ac828528d99d991.jar" />
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-5d1b17ffd3b2dde45c1dea4106e8c6a99cca5a31.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-dd34558cbb400d15a3849b1609a358ead91b2a6d.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-ffe4ee62538f5e98cb43124a74e59166628b5a63.jar" />
     </item>
     <item
         jar="/Users/charlesanderson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
@@ -114,46 +289,25 @@
         <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b7ff24a5862329cd38faec3ab71285f0e1c3cec1.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.mikepenz/iconics/1.1.0/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.mikepenz/iconics/1.0.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="430018f3fb01b4be31dc220d918b1edccab033a3">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-4e956910d3d1cfcf72b983fd0fd11facf423d810.jar" />
+        sha1="b5293d036c23b7a5046f86ee04932a12f76830e2">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-645692ce24e204fa0fd2dbccbf75d799f739a67d.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/src/main/java/volley.jar"
+        jar="/Users/charlesanderson/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/volley-612bf343e523b5bad6f6b792ac9de3bd8b0312a8.jar" />
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-9a6888360cf03cadc27ff3b85b4b4b062698d9cf.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.5/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-73f17d4188919767c2548dc72efd0b29d57abffa.jar" />
-    </item>
-    <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-fc71283e741d598309193dafadd44f874418a460.jar" />
-    </item>
-    <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-47802baa13fc35c961d2ec9aa632449cf253b653.jar" />
-    </item>
-    <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/ParseCrashReporting-1.9.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-7547f7e085480a1a805452c45a61496fb33d7166.jar" />
+        sha1="612d9155d52d2c660fabab4789dc2fbc25260561">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-1d5d680bd12c1528b0684ee3ca7f44a77116d00e.jar" />
     </item>
     <item
         jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/ParseFacebookUtilsV4-1.9.2.jar"
@@ -163,25 +317,60 @@
         <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-f8e5a0bb1bf7bd867261b322457991791a8d3847.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/3.0.5/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-d75dfe84df99e62f6dd012442e43007c9d7e67ba.jar" />
+        sha1="9037a42007919cb39d28fca3566533ecce11293c">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-2850b2561027493061c2bc05e8c4eec6911ba3a9.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/exploded-aar/com.mikepenz/iconics/1.0.1/jars/classes.jar"
+        jar="/Users/charlesanderson/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5293d036c23b7a5046f86ee04932a12f76830e2">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAreAndroid/app/build/intermediates/pre-dexed/debug/classes-645692ce24e204fa0fd2dbccbf75d799f739a67d.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/library-2.4.0-14a38f6a198b8d02c510ca91b3fd8ab74ebbcf01.jar" />
     </item>
     <item
-        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/src/main/java/volley.jar"
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/volley-b0662c1001183381384bc7a85a571321362140de.jar" />
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-622e2f692e2202335235f3c5b9469495cce09c01.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-678af170de6f66faecef6758196ae23c540885ad.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-e5cb59b38a80470af32de3e56efd135601b15cd5.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-a12c2688898117b7fca2c29b2cb259a66b9957bd.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-32b6e6be22232e7a64b3591efd721ecd58832054.jar" />
+    </item>
+    <item
+        jar="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Users/charlesanderson/AndroidStudioProjects/OddsAre_Nav/OddsAreAndroid/Odds-Are-Android/app/build/intermediates/pre-dexed/debug/classes-99ab1988163f551dc705e9d32d5dd421ae7bb95f.jar" />
     </item>
 
 </items>

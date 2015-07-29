@@ -10,47 +10,62 @@
 >
 
 
-    <SearchView
-        android:layout_width="wrap_content"
+    <EditText
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/searchView2"
+        android:id="@+id/challenged"
         android:layout_gravity="center_horizontal|top"
         android:layout_centerHorizontal="true"
-        android:queryHint="Who to challenge?"
-        android:background="@color/md_grey_200"
-        android:layout_marginTop="20dp"
-     />
+        android:inputType="text"
+        android:textSize="18sp"
+        android:hint="Pick a friend here"
+        android:minHeight="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+/>
 
+    <ListView
+        android:id="@+id/searchViewResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/challenged"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible"
+        android:elevation="5dp" />
 
 
     <EditText
         android:layout_gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/editText"
-        android:layout_marginTop="20dp"
-        android:layout_below="@id/searchView2"
-        android:hint="Enter your challenge here."
-        android:textSize="20sp"
+        android:layout_below="@+id/challenged"
+        android:hint="Enter your challenge here"
+        android:textSize="18sp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
         android:gravity="start|top"
         android:padding="5dp"
-        android:background="@color/md_grey_200"
-        android:singleLine="true"
+        android:singleLine="false"
         android:minHeight="120dp"
-
-       />
-
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button"
-        android:layout_below="@id/editText"
-        android:layout_alignRight="@id/editText"
-        android:layout_margin="5dp"
-        android:background="@null"
+        android:inputType="text"
         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:id="@+id/button"
+        android:background="@color/main"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="24dp"
+        android:textColor="#fff"
+        android:minHeight="50dp"
+        android:text="Send Challenge"
+        android:typeface="normal"
+        android:gravity="center_vertical|center_horizontal" />
 
 
 </RelativeLayout>

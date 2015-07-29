@@ -19,21 +19,29 @@ android {
     }
 }
 
+repositories {
+    mavenCentral()
+}
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:22.1.+'
-    compile 'com.android.support:support-v13:21.0.+'
-    compile 'com.jpardogo.materialtabstrip:library:1.0.9'
-    //compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile('com.mikepenz:materialdrawer:3.0.+') {
         transitive = true
     }
-    compile 'com.squareup.picasso:picasso:2.3.3'
-    compile 'com.balysv:material-ripple:1.0.2'
     compile files('src/main/java/volley.jar')
-    compile 'com.parse.bolts:bolts-android:1.+'
     compile fileTree(dir: 'libs', include: 'Parse-*.jar')
     compile files('src/main/java/Parse-1.9.2.jar')
     compile files('src/main/java/ParseCrashReporting-1.9.2.jar')
     compile files('src/main/java/ParseFacebookUtilsV4-1.9.2.jar')
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.android.support:support-v13:22.2.0'
+    compile 'com.jpardogo.materialtabstrip:library:1.0.9'
+    compile 'com.squareup.picasso:picasso:2.3.3'
+    compile 'com.balysv:material-ripple:1.0.2'
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.google.android.gms:play-services:7.3.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.0.0'
+    compile 'com.github.AlexKolpa:fab-toolbar:ea9d4269b3'
+    compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
+
 }

@@ -68,13 +68,17 @@ public class ProfileNestedfrag extends Fragment {
         };
 
         int arg = (int) getArguments().get("key");
+        ArrayList<String> stats = getArguments().getStringArrayList("stats");
+        ArrayList<String> achievements = getArguments().getStringArrayList("achievements");
 
-        if(arg == 0) {
-            list = new ArrayList<String>(Arrays.asList(values1));
+        if(arg == 0 && stats != null) {
+            list = stats;
+        }
+        else if(arg == 1 && achievements!=null) {
+            list = achievements;
         }
         else
-            list = new ArrayList<String>(Arrays.asList(values2));
-
+            list = new ArrayList<String>(Arrays.asList(values1));
 
         listAdapter1 = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, list);
         listview1.setAdapter(listAdapter1);

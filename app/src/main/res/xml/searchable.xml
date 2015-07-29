@@ -1,0 +1,18 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/search_title"
+    android:hint="@string/search_title"
+    android:includeInGlobalSearch="true"
+    android:queryAfterZeroResults="true"
+    android:searchMode="queryRewriteFromText"
+    android:searchSettingsDescription="@string/title_section2"
+    android:searchSuggestAuthority="com.android.contacts"
+    android:searchSuggestIntentAction="android.provider.Contacts.SEARCH_SUGGESTION_CLICKED"
+    android:searchSuggestIntentData="content://com.android.contacts/contacts/lookup"
+    >
+
+    <actionkey
+        android:keycode="KEYCODE_CALL"
+        android:queryActionMsg="call"
+        android:suggestActionMsg="call" />
+
+</searchable>

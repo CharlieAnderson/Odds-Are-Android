@@ -7,13 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.android.volley.Cache.Entry;
-import com.android.volley.Request;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
-import com.android.volley.VolleyLog;
-import com.android.volley.toolbox.JsonObjectRequest;
-import com.example.charlesanderson.oddsare.NewsFeed.AppController;
 import com.example.charlesanderson.oddsare.NewsFeed.FeedAdapter;
 import com.example.charlesanderson.oddsare.NewsFeed.FeedItem;
 
@@ -21,8 +14,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -51,7 +42,7 @@ public class Newsfrag extends ListFragment {
         View rootView = inflater.inflate(R.layout.newsfrag_layout, container, false);
 
         listView = (ListView) rootView.findViewById(android.R.id.list);
-
+/*
         feedItems = new ArrayList<FeedItem>();
         listAdapter = new FeedAdapter(getActivity(), feedItems);
         listView.setAdapter(listAdapter);
@@ -96,6 +87,9 @@ public class Newsfrag extends ListFragment {
             // Adding request to volley request queue
             AppController.getInstance().addToRequestQueue(jsonReq);
         }
+        */
+
+
         return rootView;
     }
 
