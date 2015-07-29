@@ -28,6 +28,7 @@ import com.facebook.login.widget.ProfilePictureView;
 import com.parse.FunctionCallback;
 import com.parse.ParseCloud;
 import com.parse.ParseException;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 import java.net.URL;
@@ -115,11 +116,25 @@ public class Profilefrag extends Fragment {
                 if(e==null) {
                     stats = o.get("statistics");
                     achievements = o.get("achievements");
+                    Log.d(TAG, o.get("statistics").toString());
+                    Log.d(TAG, o.get("achievements").toString());
                 }
                 else
                     Log.e(TAG, "Parse Cloud Error: "+e.toString());
             }
         });
+
+        ParseCloud.callFunctionInBackground("getAchievementsAndStatisticsForUser",
+                params, new FunctionCallback< Map< String, ParseObject>>() {
+                    @Override
+                    public void done(Map<String, ParseObject> o, ParseException e) {
+                        if(e==null) {
+
+                        }
+                        else
+                            Log.e(TAG, "Parse Cloud Error: "+e.toString());
+                    }
+                });
 
         return rootView;
     }

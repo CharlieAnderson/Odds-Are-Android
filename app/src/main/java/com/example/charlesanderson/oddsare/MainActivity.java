@@ -35,6 +35,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.InputStream;
 import java.net.URL;
 import java.util.Hashtable;
 import java.util.List;
@@ -356,6 +357,13 @@ public class MainActivity extends AppCompatActivity { //AppCompatActivity?
                                 userProfile.put("name", jsonObject.getString("name"));
                                 userId = jsonObject.getString("id");
 
+                                    URL imgUrl = new URL("http://graph.facebook.com/"
+                                            + userProfile.get("id") + "/picture?type=large");
+
+                                InputStream in = (InputStream) imgUrl.getContent();
+                                Bitmap bitmap = BitmapFactory.decodeStream(in);
+                                profilePic = bitmap;
+
                                 if (jsonObject.getString("gender") != null)
                                     userProfile.put("gender", jsonObject.getString("gender"));
 
@@ -372,7 +380,7 @@ public class MainActivity extends AppCompatActivity { //AppCompatActivity?
                                 currentUser.saveInBackground();
 
                                 // Show the user info
-                            } catch (JSONException e) {
+                            } catch (Exception e) {
                                 Log.d(OddsAreApp.TAG,
                                         "Error parsing returned user data. " + e);
                             }
